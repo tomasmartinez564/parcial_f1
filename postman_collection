@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "e035e582-eae4-40c7-bd8d-46b85cf53efa",
+		"name": "Parcial - F1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48398355",
+		"_collection_link": "https://tomas-jmartinez-1588754.postman.co/workspace/Tom%EF%BF%BDs-Joaqu%EF%BF%BDn-Mart%EF%BF%BDnez-Gim%EF%BF%BDnez'~aa917832-5da5-4a8a-8f28-0fd93f1e35cc/collection/48398355-e035e582-eae4-40c7-bd8d-46b85cf53efa?action=share&source=collection_link&creator=48398355"
+	},
+	"item": [
+		{
+			"name": "Drivers — list",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Driver — by id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Favorites — create",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Favorites — list",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Favorites — get",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Favorites — put",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Favorites — delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
