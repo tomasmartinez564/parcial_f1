@@ -1,0 +1,25 @@
+{
+  "name": "parcial-f1",
+  "version": "1.0.0",
+  "description": "Parcial - API integrada con OpenF1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Tomas Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.12.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "espress": "^0.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.8.7",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": []
+}
